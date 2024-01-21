@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DataScrapGenerator</string>
+    <string-array name="platforms">
+        <item>instagram</item>
+        <item>telegram</item>
+        <item>pinterest</item>
+        <item>linkedin</item>
+        <item>whatsapp</item>
+        <item>tiktok</item>
+        <item>facebook</item>
+    </string-array>
+
+    <string-array name="scrap">
+        <item>email</item>
+        <item>phone number</item>
+    </string-array>
+</resources>
